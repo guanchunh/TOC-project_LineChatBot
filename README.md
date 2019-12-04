@@ -33,7 +33,7 @@ pipenv shell
 * parse data from [台灣高鐵](http://www.thsrc.com.tw/index.html)
 
 ## Finite State Machine
-![fsm](./img/fsm.png)
+![fsm](./img/show-fsm.png)
 
 ## Usage
 The initial state is set to `user`.
